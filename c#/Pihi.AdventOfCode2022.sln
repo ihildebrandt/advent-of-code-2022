@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pihi.AdventOfCode2022.Appli
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pihi.AdventOfCode2022.Day01", "Pihi.AdventOfCode2022.Day01\Pihi.AdventOfCode2022.Day01.csproj", "{CDFA6D26-AA0B-48AD-847C-BC530DBEAB51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pihi.AdventOfCode2022.Common", "Pihi.AdventOfCode2022.Common\Pihi.AdventOfCode2022.Common.csproj", "{C71E37BB-9596-45E0-B676-5B656350EF70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pihi.AdventOfCode2022.Common", "Pihi.AdventOfCode2022.Common\Pihi.AdventOfCode2022.Common.csproj", "{C71E37BB-9596-45E0-B676-5B656350EF70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
