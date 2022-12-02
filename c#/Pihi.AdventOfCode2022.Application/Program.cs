@@ -1,7 +1,7 @@
-﻿using Pihi.AdventOfCode2022.Day01;
+﻿using Pihi.AdventOfCode2022.Day02;
 
-var day = 1;
+var day = 2;
 var input = "input";
 
 using var inputStream = File.OpenRead($"input/{day:00}/{input}.txt");
-new Day1Runner(inputStream).Run();
+new Runner(inputStream).Run();

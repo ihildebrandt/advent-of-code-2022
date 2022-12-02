@@ -26,5 +26,7 @@ namespace Pihi.AdventOfCode2022.Common
                 yield return line;
             }
         }
+
+        public abstract void Run();
     }
 }

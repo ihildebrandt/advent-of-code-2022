@@ -2,13 +2,13 @@
 
 namespace Pihi.AdventOfCode2022.Day01
 {
-    public class Day1Runner : RunnerBase
+    public class Runner : RunnerBase
     {
-        public Day1Runner(Stream inputStream) : base(inputStream)
+        public Runner(Stream inputStream) : base(inputStream)
         {
         }
 
-        public void Run()
+        public override void Run()
         {
             var elves = new List<Elf>();
             var elf = new Elf();
