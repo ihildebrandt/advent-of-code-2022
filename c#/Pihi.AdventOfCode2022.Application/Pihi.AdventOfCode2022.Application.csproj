@@ -8,6 +8,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="..\..\input\01\example.txt" Link="input\01\example.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\input\01\input.txt" Link="input\01\input.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Pihi.AdventOfCode2022.Day01\Pihi.AdventOfCode2022.Day01.csproj" />
   </ItemGroup>
 

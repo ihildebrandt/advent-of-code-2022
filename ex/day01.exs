@@ -1,4 +1,4 @@
-{:ok, contents} = File.read("input/01/input.txt")
+{:ok, contents} = File.read("../input/01/input.txt")
 contents
   |> String.split("\n")
   |> Enum.chunk_by(fn x -> x == "" end)

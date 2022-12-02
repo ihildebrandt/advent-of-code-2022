@@ -2,7 +2,7 @@ from functools import reduce
 from operator import add
 
 def main():
-    f = open("input/01/input.txt", "r")
+    f = open("../input/01/input.txt", "r")
     
     calories = [0]
     calIdx = 0

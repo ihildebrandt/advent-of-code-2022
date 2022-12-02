@@ -4,7 +4,7 @@ import Data.List
 
 run :: IO ()
 run = do 
-    contents <- readFile "input/01/input.txt"
+    contents <- readFile "../input/01/input.txt"
     print . foldl (+) 0
           . take 3
           . reverse
