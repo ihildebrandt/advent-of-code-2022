@@ -20,11 +20,18 @@
     <Content Include="..\..\input\02\input.txt" Link="input\02\input.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="..\..\input\03\example.txt" Link="input\03\example.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\input\03\input.txt" Link="input\03\input.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Pihi.AdventOfCode2022.Day01\Pihi.AdventOfCode2022.Day01.csproj" />
     <ProjectReference Include="..\Pihi.AdventOfCode2022.Day02\Pihi.AdventOfCode2022.Day02.csproj" />
+    <ProjectReference Include="..\Pihi.AdventOfCode2022.Day03\Pihi.AdventOfCode2022.Day03.csproj" />
   </ItemGroup>
 
   <ItemGroup>
