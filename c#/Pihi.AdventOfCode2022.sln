@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pihi.AdventOfCode2022.Commo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pihi.AdventOfCode2022.Day02", "Pihi.AdventOfCode2022.Day02\Pihi.AdventOfCode2022.Day02.csproj", "{6D03CE6D-DDA2-44E2-A495-5883B33D5DD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pihi.AdventOfCode2022.Day03", "Pihi.AdventOfCode2022.Day03\Pihi.AdventOfCode2022.Day03.csproj", "{D6E3C2F5-FA5F-4E18-8DD9-CF18CF58522E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pihi.AdventOfCode2022.Day03", "Pihi.AdventOfCode2022.Day03\Pihi.AdventOfCode2022.Day03.csproj", "{D6E3C2F5-FA5F-4E18-8DD9-CF18CF58522E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pihi.AdventOfCode2022.Day04", "Pihi.AdventOfCode2022.Day04\Pihi.AdventOfCode2022.Day04.csproj", "{24EAA074-A948-4341-8B01-5A3C6126B605}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{D6E3C2F5-FA5F-4E18-8DD9-CF18CF58522E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6E3C2F5-FA5F-4E18-8DD9-CF18CF58522E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6E3C2F5-FA5F-4E18-8DD9-CF18CF58522E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24EAA074-A948-4341-8B01-5A3C6126B605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24EAA074-A948-4341-8B01-5A3C6126B605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24EAA074-A948-4341-8B01-5A3C6126B605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24EAA074-A948-4341-8B01-5A3C6126B605}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
