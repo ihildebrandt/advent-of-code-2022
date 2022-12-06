@@ -38,6 +38,12 @@
     <Content Include="..\..\input\05\input.txt" Link="input\05\input.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="..\..\input\06\example.txt" Link="input\06\example.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\..\input\06\input.txt" Link="input\06\input.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
   <ItemGroup>
@@ -46,6 +52,7 @@
     <ProjectReference Include="..\Pihi.AdventOfCode2022.Day03\Pihi.AdventOfCode2022.Day03.csproj" />
     <ProjectReference Include="..\Pihi.AdventOfCode2022.Day04\Pihi.AdventOfCode2022.Day04.csproj" />
     <ProjectReference Include="..\Pihi.AdventOfCode2022.Day05\Pihi.AdventOfCode2022.Day05.csproj" />
+    <ProjectReference Include="..\Pihi.AdventOfCode2022.Day06\Pihi.AdventOfCode2022.Day06.csproj" />
   </ItemGroup>
 
   <ItemGroup>
