@@ -161,6 +161,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Pihi.AdventOfCode2022.Common\Pihi.AdventOfCode2022.Common.csproj" />
     <ProjectReference Include="..\Pihi.AdventOfCode2022.Day01\Pihi.AdventOfCode2022.Day01.csproj" />
     <ProjectReference Include="..\Pihi.AdventOfCode2022.Day02\Pihi.AdventOfCode2022.Day02.csproj" />
     <ProjectReference Include="..\Pihi.AdventOfCode2022.Day03\Pihi.AdventOfCode2022.Day03.csproj" />
@@ -172,5 +173,6 @@
     <ProjectReference Include="..\Pihi.AdventOfCode2022.Day09\Pihi.AdventOfCode2022.Day09.csproj" />
     <ProjectReference Include="..\Pihi.AdventOfCode2022.Day10\Pihi.AdventOfCode2022.Day10.csproj" />
     <ProjectReference Include="..\Pihi.AdventOfCode2022.Day11\Pihi.AdventOfCode2022.Day11.csproj" />
+    <ProjectReference Include="..\Pihi.AdventOfCode2022.Day12\Pihi.AdventOfCode2022.Day12.csproj" />
   </ItemGroup>
 </Project>
