@@ -1,0 +1,204 @@
+{
+  "profiles": {
+    "Day 1 - Example": {
+      "commandName": "Project",
+      "commandLineArgs": "1 example"
+    },
+    "Day 1": {
+      "commandName": "Project",
+      "commandLineArgs": "1 input"
+    },
+    "Day 2 - Example": {
+      "commandName": "Project",
+      "commandLineArgs": "2 example"
+    },
+    "Day 2": {
+      "commandName": "Project",
+      "commandLineArgs": "2 input"
+    },
+    "Day 3 - Example": {
+      "commandName": "Project",
+      "commandLineArgs": "3 example"
+    },
+    "Day 3": {
+      "commandName": "Project",
+      "commandLineArgs": "3 input"
+    },
+    "Day 4 - Example": {
+      "commandName": "Project",
+      "commandLineArgs": "4 example"
+    },
+    "Day 4": {
+      "commandName": "Project",
+      "commandLineArgs": "4 input"
+    },
+    "Day 5 - Example": {
+      "commandName": "Project",
+      "commandLineArgs": "5 example"
+    },
+    "Day 5": {
+      "commandName": "Project",
+      "commandLineArgs": "5 input"
+    },
+    "Day 6 - Example": {
+      "commandName": "Project",
+      "commandLineArgs": "6 example"
+    },
+    "Day 6": {
+      "commandName": "Project",
+      "commandLineArgs": "6 input"
+    },
+    "Day 7 - Example": {
+      "commandName": "Project",
+      "commandLineArgs": "7 example"
+    },
+    "Day 7": {
+      "commandName": "Project",
+      "commandLineArgs": "7 input"
+    },
+    "Day 8 - Example": {
+      "commandName": "Project",
+      "commandLineArgs": "8 example"
+    },
+    "Day 8": {
+      "commandName": "Project",
+      "commandLineArgs": "8 input"
+    },
+    "Day 9 - Example": {
+      "commandName": "Project",
+      "commandLineArgs": "9 example"
+    },
+    "Day 9": {
+      "commandName": "Project",
+      "commandLineArgs": "9 input"
+    },
+    "Day 10 - Example": {
+      "commandName": "Project",
+      "commandLineArgs": "10 example"
+    },
+    "Day 10": {
+      "commandName": "Project",
+      "commandLineArgs": "10 input"
+    },
+    "Day 11 - Example": {
+      "commandName": "Project",
+      "commandLineArgs": "11 example"
+    },
+    "Day 11": {
+      "commandName": "Project",
+      "commandLineArgs": "11 input"
+    },
+    "Day 12 - Example": {
+      "commandName": "Project",
+      "commandLineArgs": "12 example"
+    },
+    "Day 12": {
+      "commandName": "Project",
+      "commandLineArgs": "12 input"
+    },
+    "Day 13 - Example": {
+      "commandName": "Project",
+      "commandLineArgs": "13 example"
+    },
+    "Day 13": {
+      "commandName": "Project",
+      "commandLineArgs": "13 input"
+    },
+    "Day 14 - Example": {
+      "commandName": "Project",
+      "commandLineArgs": "14 example"
+    },
+    "Day 14": {
+      "commandName": "Project",
+      "commandLineArgs": "14 input"
+    },
+    "Day 15 - Example": {
+      "commandName": "Project",
+      "commandLineArgs": "15 example"
+    },
+    "Day 15": {
+      "commandName": "Project",
+      "commandLineArgs": "15 input"
+    },
+    "Day 16 - Example": {
+      "commandName": "Project",
+      "commandLineArgs": "16 example"
+    },
+    "Day 16": {
+      "commandName": "Project",
+      "commandLineArgs": "16 input"
+    },
+    "Day 17 - Example": {
+      "commandName": "Project",
+      "commandLineArgs": "17 example"
+    },
+    "Day 17": {
+      "commandName": "Project",
+      "commandLineArgs": "17 input"
+    },
+    "Day 18 - Example": {
+      "commandName": "Project",
+      "commandLineArgs": "18 example"
+    },
+    "Day 18": {
+      "commandName": "Project",
+      "commandLineArgs": "18 input"
+    },
+    "Day 19 - Example": {
+      "commandName": "Project",
+      "commandLineArgs": "19 example"
+    },
+    "Day 19": {
+      "commandName": "Project",
+      "commandLineArgs": "19 input"
+    },
+    "Day 20 - Example": {
+      "commandName": "Project",
+      "commandLineArgs": "20 example"
+    },
+    "Day 20": {
+      "commandName": "Project",
+      "commandLineArgs": "20 input"
+    },
+    "Day 21 - Example": {
+      "commandName": "Project",
+      "commandLineArgs": "21 example"
+    },
+    "Day 21": {
+      "commandName": "Project",
+      "commandLineArgs": "21 input"
+    },
+    "Day 22 - Example": {
+      "commandName": "Project",
+      "commandLineArgs": "22 example"
+    },
+    "Day 22": {
+      "commandName": "Project",
+      "commandLineArgs": "22 input"
+    },
+    "Day 23 - Example": {
+      "commandName": "Project",
+      "commandLineArgs": "23 example"
+    },
+    "Day 23": {
+      "commandName": "Project",
+      "commandLineArgs": "23 input"
+    },
+    "Day 24 - Example": {
+      "commandName": "Project",
+      "commandLineArgs": "24 example"
+    },
+    "Day 24": {
+      "commandName": "Project",
+      "commandLineArgs": "24 input"
+    },
+    "Day 25 - Example": {
+      "commandName": "Project",
+      "commandLineArgs": "25 example"
+    },
+    "Day 25": {
+      "commandName": "Project",
+      "commandLineArgs": "25 input"
+    }
+  }
+}
